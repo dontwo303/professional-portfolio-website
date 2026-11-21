@@ -11,6 +11,8 @@ npm run serve
 
 The finished site is in `dist/` and can be hosted by any static host that serves directory `index.html` files.
 
+Vercel uses the root `vercel.json` to run `npm run build` and deploy the generated `dist/` directory. Keep the Vercel project's Root Directory set to the repository root.
+
 For absolute canonical URLs and a sitemap, set `SITE_URL` to the live site origin when building (for example, `https://example.com`). Without it, the build omits those tags and the sitemap instead of emitting a false URL.
 
 ## Before launch
