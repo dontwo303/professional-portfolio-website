@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "practical-ai-marketing-plan",
+    "status": "published",
+    "category": "AI Marketing",
+    "title": "A Practical AI Marketing Plan for a Small Business",
+    "description": "Choose useful AI applications without adding more tools than your team can manage.",
+    "date": "Nov 22, 2026",
+    "isoDate": "2026-11-22",
+    "readTime": "5 min read",
+    "imageLabel": "AI MARKETING",
+    "imageAlt": "Abstract blue rings representing connected AI marketing decisions",
+    "sections": [
+      {"heading":"Start with a business problem","text":"Before choosing a tool, find where your customer journey or team workflow slows down. Delayed inquiry replies and scattered customer information are clearer starting points than a list of new software."},
+      {"heading":"Choose one focused use case","text":"Select an opportunity with an owner and an outcome you can observe. Document how the work happens today, what should happen next, and where a person should review the output."},
+      {"heading":"Test, measure, and improve","text":"Run a small trial. Check quality, privacy, time saved, and the customer experience before expanding. Keep the useful pieces and revise weak steps."}
+    ]
+  },
+  {
+    "slug": "digital-marketing-roadmap",
+    "status": "published",
+    "category": "Digital Marketing",
+    "title": "How to Build a Digital Marketing Roadmap",
+    "description": "Connect your channels, audience, and message before adding more campaigns.",
+    "date": "Nov 22, 2026",
+    "isoDate": "2026-11-22",
+    "readTime": "4 min read",
+    "imageLabel": "DIGITAL STRATEGY",
+    "imageAlt": "Abstract blue marketing strategy illustration",
+    "sections": [
+      {"heading":"Define the business goal","text":"Choose a specific outcome, such as more relevant inquiries. Then describe who you want to reach and what they need to know before taking the next step."},
+      {"heading":"Give each channel a role","text":"Search, social media, email, and ads serve different parts of a customer journey. Prioritize the channels your audience uses and your team can maintain."},
+      {"heading":"Set a review rhythm","text":"Write down a small number of useful measures. Review results regularly and adjust the plan as you learn what customers respond to."}
+    ]
+  },
+  {
+    "slug": "social-content-calendar",
+    "status": "published",
+    "category": "Social Media Marketing",
+    "title": "A Social Content Calendar You Can Sustain",
+    "description": "Plan a realistic publishing rhythm around customer questions and your team’s capacity.",
+    "date": "Nov 22, 2026",
+    "isoDate": "2026-11-22",
+    "readTime": "4 min read",
+    "imageLabel": "SOCIAL CONTENT",
+    "imageAlt": "Abstract content planning illustration in blue",
+    "sections": [
+      {"heading":"Begin with audience questions","text":"Collect the questions customers ask before they buy. Turn those questions into a few repeatable content themes."},
+      {"heading":"Choose a manageable cadence","text":"A smaller plan you can maintain is more useful than a crowded schedule that stops after two weeks. Reserve time for creating and replying."},
+      {"heading":"Review the response","text":"Look beyond reach. Notice which posts start relevant conversations or help people understand your offer."}
+    ]
+  },
+  {
+    "slug": "seo-foundations-for-growing-businesses",
+    "status": "published",
+    "category": "SEO",
+    "title": "SEO Foundations for a Growing Business",
+    "description": "Start with helpful pages, search intent, and sound technical basics.",
+    "date": "Nov 22, 2026",
+    "isoDate": "2026-11-22",
+    "readTime": "5 min read",
+    "imageLabel": "SEARCH VISIBILITY",
+    "imageAlt": "Abstract search visibility illustration in blue",
+    "sections": [
+      {"heading":"Understand search intent","text":"Find the questions your ideal customers ask and the language they use. Match each important question to a helpful page."},
+      {"heading":"Improve existing pages","text":"Give each page a clear purpose, descriptive title, readable headings, and content that answers the main question."},
+      {"heading":"Check technical basics","text":"Make sure pages work well on mobile, load reliably, and can be discovered by search engines. Track useful inquiries as well as visits."}
+    ]
+  },
+  {
+    "slug": "website-conversion-checklist",
+    "status": "published",
+    "category": "Business Growth",
+    "title": "Is Your Website Turning Visitors Into Conversations?",
+    "description": "A clear offer and an easy next step can make your website more useful.",
+    "date": "Nov 22, 2026",
+    "isoDate": "2026-11-22",
+    "readTime": "4 min read",
+    "imageLabel": "BETTER CONVERSIONS",
+    "imageAlt": "Abstract website conversion illustration in blue",
+    "sections": [
+      {"heading":"Make the offer obvious","text":"Visitors should understand who you help, what you offer, and the next step within seconds. Use plain language that reflects their goals."},
+      {"heading":"Reduce friction","text":"Keep forms focused, make navigation predictable, and explain what happens after someone reaches out."},
+      {"heading":"Review the full journey","text":"The experience continues after submission. Plan a timely, helpful response and track the questions people ask."}
+    ]
+  },
+  {
+    "slug": "marketing-automation-first-workflow",
+    "status": "published",
+    "category": "Marketing Automation",
+    "title": "Choosing Your First Marketing Automation Workflow",
+    "description": "Find one repetitive task where a thoughtful workflow can save time.",
+    "date": "Nov 22, 2026",
+    "isoDate": "2026-11-22",
+    "readTime": "5 min read",
+    "imageLabel": "SMARTER WORKFLOWS",
+    "imageAlt": "Abstract blue marketing automation illustration",
+    "sections": [
+      {"heading":"Map the current task","text":"Write down each step from first inquiry to follow-up. Look for delays, repeated copying, and missing handoffs."},
+      {"heading":"Keep human checks","text":"Automation can prepare messages or move information, but a person should review decisions that require context, accuracy, or care."},
+      {"heading":"Test before expanding","text":"Try the workflow with a small group of cases. Check timing, errors, privacy, and how customers experience the result."}
+    ]
+  }
+]
